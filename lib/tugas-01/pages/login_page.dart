@@ -32,7 +32,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Kedai Kopi Silo',
+          'Kedai kopi Silo',
           style: TextStyle(color: Colors.brown, fontWeight: FontWeight.bold),
         ),
       ),
